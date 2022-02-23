@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/Ahmed-Sajjad111/Ahmed-Sajjad111/main/banner1.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Front-end web developer utilizing an IT background to build an easy user experience on applications. Self-taught and recently earned a certificate in full stack development from the University of Minnesota that built upon my skills in JavaScript, CSS, React.js, and responsive web design. Known as a dedicated problem solver with a passion for all things technology. Focused on creating high end user experiences with a mobile-first design and development. I have applied aspects of UX and agile development and worked in teams to develop single-page MERN apps. One of which helped local business owners track their sales, inventory, and attendance. I am excited to leverage my skills to build better experiences on the web.
+Front-end web developer utilizing an IT background to build an easy user experience on applications. Earned a certificate in Full Stack Web Development from the University of Minnesota. Known to be a dedicated problem solver, natural leader, and flexible team member. Proficient in quickly analyzing situations and making informed decisions. Applied aspects of UX and agile development and worked in teams to develop single-page MERN apps, one of which helped local business owners track their sales, inventory, and attendance. With a passion for all things technology and as a motivated and eager learner, I am excited to use my technical skills and team skills to continue to develop innovative applications!
 
 ---
 
