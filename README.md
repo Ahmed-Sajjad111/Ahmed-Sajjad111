@@ -27,6 +27,7 @@ helped local business owners track their sales, inventory, and attendance. With 
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878??style=flat&logo=express&logoColor=FFFFFF">
