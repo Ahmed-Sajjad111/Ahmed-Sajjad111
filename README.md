@@ -24,6 +24,7 @@ helped local business owners track their sales, inventory, and attendance. With 
 ---
 
 ## Skills
+<p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
@@ -48,7 +49,7 @@ helped local business owners track their sales, inventory, and attendance. With 
 <img src="https://img.shields.io/badge/-APIs-FF0000?style=flat&logo=api&logoColor=white">
 <img src="https://img.shields.io/badge/-UX/UI_Design-0000FF?style=flat&logo=ux/uidesign&logoColor=white">
 <img src="https://img.shields.io/badge/-Agile_Methodology-AA336A?style=flat&logo=agilemethodology&logoColor=white">
-
+</p>
 ---
 
 ## GitHub Stats
