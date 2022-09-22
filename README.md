@@ -50,6 +50,7 @@ helped local business owners track their sales, inventory, and attendance. With 
 <img src="https://img.shields.io/badge/-UX/UI_Design-0000FF?style=flat&logo=ux/uidesign&logoColor=white">
 <img src="https://img.shields.io/badge/-Agile_Methodology-AA336A?style=flat&logo=agilemethodology&logoColor=white">
 </p>
+
 ---
 
 ## GitHub Stats
