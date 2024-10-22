@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/Ahmed-Sajjad111/Ahmed-Sajjad111/main/banner1.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-Full Stack web developer utilizing an IT background to build an
+Software Engineer and Full Stack web developer utilizing an IT background to build an
 easy user experience on applications. Earned a certificate in Full Stack Web
 Development from the University of Minnesota. Known to be a dedicated problem
 solver, natural leader, and flexible team member. Proficient in quickly analyzing
